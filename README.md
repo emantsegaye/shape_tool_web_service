@@ -4,10 +4,10 @@
 ShapeTool is a SOAP-based web service built with Spring Boot that calculates the area of geometric shapes (circle, square, rectangle, triangle, and parallelogram). It uses XML-based SOAP communication with XSD validation and auto-generated WSDL.
 
 ⚙️ Technologies
-Java (Spring Boot)
-Spring Web Services (SOAP)
-XML, XSD, WSDL
-Maven
+-Java (Spring Boot)
+-Spring Web Services (SOAP)
+-XML, XSD, WSDL
+-Maven
 
 ## Project Structure
 
