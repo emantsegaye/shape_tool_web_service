@@ -41,16 +41,32 @@ shapetool/
 
 ## Supported Operations
 
-| Shape         | Input Parameters     | Formula                  |
-|---------------|----------------------|--------------------------|
-| Circle        | `radius`             | π × r²                   |
-| Square        | `side`               | side²                    |
-| Rectangle     | `length`, `width`    | length × width           |
-| Triangle      | `base`, `height`     | 0.5 × base × height      |
-| Parallelogram | `base`, `height`     | base × height            |
+
+## Supported Operations
+
+**Circle**
+- Input: `radius`
+- Formula: π × r²
+
+**Square**
+- Input: `side`
+- Formula: side²
+
+**Rectangle**
+- Input: `length`, `width`
+- Formula: length × width
+
+**Triangle**
+- Input: `base`, `height`
+- Formula: 0.5 × base × height
+
+**Parallelogram**
+- Input: `base`, `height`
+- Formula: base × height
 
 📌 WSDL URL
 http://localhost:8080/ws/shapetool.wsdl
+
 📌 SOAP Endpoint URL
 http://localhost:8080/ws
 
